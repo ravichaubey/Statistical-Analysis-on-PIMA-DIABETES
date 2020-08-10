@@ -1,8 +1,6 @@
 `Hello Folk,
 There are four parts in these analysis. Let me explain each part and show you guys how to use them in sequence to understand the workflow.`
 
-![](https://miro.medium.com/max/4528/1*6G8FAYZ5X5oAPDfT3gN6nA.png)
-
 ## Univariate Statistical Analysis
 
 This type of data consists of only one variable. The analysis of univariate data is thus the simplest form of analysis since the information deals with only one quantity that changes. It does not deal with causes or relationships and the main purpose of the analysis is to describe the data and find patterns that exist within it. The example of a univariate data can be height.
